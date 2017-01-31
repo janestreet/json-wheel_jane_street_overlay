@@ -1,0 +1,4 @@
+(library
+ ((name json_wheel_jane_street_overlay)
+  (public_name json-wheel_jane_street_overlay)
+  (libraries (core json-wheel))))
